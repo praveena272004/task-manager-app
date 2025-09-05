@@ -88,13 +88,13 @@ Check out the live version of the app here: [Task Manager App](https://taskmanag
 📸 Screenshots
 
 ✅ Light Mode
-![Light Mode](screenshots/light-mode.png)
+![Light Mode](public/screenshots/light-mode.png)
 
 🌙 Dark Mode
-![Dark Mode](screenshots/dark-mode.png)
+![Dark Mode](public/screenshots/dark-mode.png)
 
 📋 Task List
-![Task List](screenshots/filtering.png)
+![Task List](public/screenshots/filtering.png)
 
 ---
 
