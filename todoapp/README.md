@@ -44,8 +44,12 @@ public/
 │   ├─ filtering.png
 │   ├─ light-mode.png
 │-- favicon.png
+│-- index.html
 
 package.json
+package-lock.json
+vite.config.js
+.eslintrc.js
 README.md
 .gitignore
 
