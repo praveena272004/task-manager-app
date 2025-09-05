@@ -28,26 +28,26 @@ Supports **Dark Mode** 🌙 / **Light Mode** ☀️ toggle.
 
 ## 📂 Project Structure
 
-ToDoApp/
-│-- src/
-│ │-- components/
-│ │ ├─ TaskInput.jsx
-│ │ ├─ TaskFilter.jsx
-│ │ ├─ TaskList.jsx
-│ │-- Theme.js
-│ │-- App.jsx
-│ │-- index.css
-│ │-- main.jsx
-│
-│-- public/
-│ │-- screenshots/
-│ │ ├─ dark-mode.png
-│ │ ├─ filtering.png
-│ │ ├─ light-mode.png
-│ │-- favicon.png 
-│-- package.json
-│-- README.md
-│-- .gitignore
+src/
+│-- components/
+│   ├─ TaskInput.jsx
+│   ├─ TaskFilter.jsx
+│   ├─ TaskList.jsx
+│-- Theme.js
+│-- App.jsx
+│-- index.css
+│-- main.jsx
+
+public/
+│-- screenshots/
+│   ├─ dark-mode.png
+│   ├─ filtering.png
+│   ├─ light-mode.png
+│-- favicon.png
+
+package.json
+README.md
+.gitignore
 
 ---
 
