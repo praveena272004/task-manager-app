@@ -51,9 +51,9 @@ index.html
 package-lock.json
 package.json
 vite.config.js
-
 LICENSE
 README.md
+
 ---
 
 ## ⚡ Getting Started
