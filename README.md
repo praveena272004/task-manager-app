@@ -28,6 +28,13 @@ Supports **Dark Mode** 🌙 / **Light Mode** ☀️ toggle.
 
 ## 📂 Project Structure
 
+public/
+│-- screenshots/
+│   ├─ dark-mode.png
+│   ├─ filtering.png
+│   ├─ light-mode.png
+│-- favicon.png
+
 src/
 │-- components/
 │   ├─ TaskInput.jsx
@@ -38,21 +45,15 @@ src/
 │-- index.css
 │-- main.jsx
 
-public/
-│-- screenshots/
-│   ├─ dark-mode.png
-│   ├─ filtering.png
-│   ├─ light-mode.png
-│-- favicon.png
-│-- index.html
-
-package.json
-package-lock.json
-vite.config.js
-.eslintrc.js
-README.md
 .gitignore
+.eslintrc.js
+index.html
+package-lock.json
+package.json
+vite.config.js
 
+LICENSE
+README.md
 ---
 
 ## ⚡ Getting Started
